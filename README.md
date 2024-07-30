@@ -15,6 +15,8 @@ step1:-
 
 
 setp2:-
+
+
 ![image](https://github.com/user-attachments/assets/5abf70fb-47de-46e5-a0cf-67f49c714dd8)
 
 
@@ -29,4 +31,6 @@ setp2:-
 
 
 step3:-
+
+
 ![image](https://github.com/user-attachments/assets/4fb9a44f-5b5e-43cf-b5be-2014a7d6a3f1)
